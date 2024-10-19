@@ -19,11 +19,12 @@ Frequency based Embedding 기반의 TF-IDF 는 특정 주제 또는 단어의 �
 
 # Process
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ecafc9d5-2001-4bd1-8e09-7614012478e3/e980fa57-b3e7-4f79-9af2-8c1ebf195acb/Untitled.png)
+![image](https://github.com/user-attachments/assets/168e429f-1105-44c4-819a-4f7d2ad828a6)
+
 
 전체 프로세스
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ecafc9d5-2001-4bd1-8e09-7614012478e3/162ff69d-6265-4bf8-bd88-9f4780b9495b/Untitled.png)
+![image](https://github.com/user-attachments/assets/0b4924b3-d082-4f61-bd8a-02b8bb1a126e)
 
 # Reference
 
