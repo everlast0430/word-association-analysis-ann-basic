@@ -32,6 +32,6 @@ Frequency based Embedding 기반의 TF-IDF 는 특정 주제 또는 단어의 �
 - https://cmry.github.io/notes/euclidean-v-cosine
 - https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8
 - https://towardsdatascience.com/all-you-need-to-know-to-build-your-first-llm-app-eb982c78ffac
-<img width="557" height="413" alt="image" src="https://github.com/user-attachments/assets/af18ec3c-1ab7-45dd-b6f4-08ab137163e3" />
+
 
 
